@@ -1,6 +1,6 @@
 # Guacamole
 ## Ingredients
-* chicken
-* chocolate
-* sugar
+* avocado
+* lime
+* salt
 ## Instructions
